@@ -84,3 +84,12 @@
 
 ---
 
+### **Data Visualisation:**
+<img width="1037" height="632" alt="S P plot6" src="https://github.com/user-attachments/assets/d965d188-e259-4626-a0b2-adb2ffcdcdac" />
+<img width="1041" height="597" alt="S P plot5" src="https://github.com/user-attachments/assets/d6b1b05d-9c66-4bcc-9a7f-736be074b62f" />
+<img width="811" height="372" alt="S P plot4" src="https://github.com/user-attachments/assets/7914edf4-763b-40ca-9526-40c5a9187080" />
+<img width="667" height="625" alt="S P plot3" src="https://github.com/user-attachments/assets/a97665a1-d4d7-4420-b196-9ed91717e2da" />
+<img width="680" height="532" alt="S P plot2" src="https://github.com/user-attachments/assets/274d33bc-f6e6-4753-892b-a97f24e80557" />
+<img width="653" height="621" alt="S P plot1" src="https://github.com/user-attachments/assets/cfebd001-2480-4835-a777-e74356ccf0c4" />
+
+
